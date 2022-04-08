@@ -1,0 +1,210 @@
+
+.darkmode{
+    .darkmode-btn{
+        color: #2b2b2b;
+        background: none;
+        border: none;
+        i{
+            color: whitesmoke;
+        }
+    }
+    background-color: #1f1f1f;
+    color: #2b2b2b;
+    .scrolling-active{
+        background: #1f1f1f;
+        box-sizing: 0 3px 1rem rgba(0,0,0,.1);
+    }
+    .nav-scroll{
+        .container-fluid{
+            a{
+                color: whitesmoke;
+                i{
+                    color: whitesmoke;
+                }
+            }
+            a:hover{
+                color:#efbe8a
+            }
+            a:visited{
+                color: whitesmoke;
+            }
+            .dropdown-menu{
+                background-color: #1f1f1f;
+                li{
+                    a:hover{
+                        background: #efbe8a;
+                    }
+                }
+            }
+            .shopping-bag{
+                color: whitesmoke;
+                i{
+                    color: whitesmoke;
+                }
+            }
+            .dark{
+                color:whitesmoke
+            }
+        }
+        .offcanvas-body{
+           background-color:#1f1f1f;
+    
+        }
+        .offcanvas-header{
+            h5{
+                color: whitesmoke;
+            }
+        }
+        .navbar-toggler{
+            background-color: whitesmoke;
+        }
+    }
+    .home{
+        .home-banner{
+           background-color:#efbe8a;
+        }
+        .home-data{
+            h1{
+                color: whitesmoke;
+            }
+            p{
+                color: whitesmoke;
+            }
+        }
+        .home-link{
+            a:hover{
+                color: whitesmoke;
+            }
+        }
+        .cart{
+            background-color: #3d3d3d;
+        }
+        .cart:hover{
+            background-color: #5a5959;
+        }
+    }
+    .featured{
+        h1{
+            color: whitesmoke;
+            text-decoration: #efbe8a overline 1px solid;
+        }
+        .featured-products{
+            h3{
+                color: whitesmoke;
+            }
+            span{
+                color: #efbe8a;
+            }
+            button{
+                background-color: #3d3d3d;
+            }
+            button:hover{
+                background-color: #5a5959 ;
+            }
+        }
+    }
+    .main-story{
+        background-color: #efbe8a;
+        .main-content{
+            .story-data{
+                h2,h1,p{
+                    color: #3d3d3d;
+                }
+                button{
+                    background-color: #3d3d3d;
+                    color: whitesmoke;
+                }
+                button:hover{
+                    background-color: #5a5959;
+                }
+            }
+        }
+    }
+    .products{
+        h1{
+            color: whitesmoke;
+            text-decoration: overline 1px solid #efbe8a;
+        }
+        .our-products{
+            h3{
+                color: whitesmoke;
+            }
+            span{
+                color: #efbe8a;
+            }
+            button{
+                background-color: #3d3d3d;
+            }
+            button:hover{
+                background-color: #5a5959;
+            }
+        }
+    }
+    .new-arrivals{
+        h1{
+            color: whitesmoke;
+            text-decoration: overline 1px solid #efbe8a;
+        }
+        .new-watches:hover{
+            background-color: #efbe8a;
+            span{
+                background-color: #3d3d3d;
+            }
+        }
+        .new-watches{
+            span{
+                background-color: #efbe8a;
+            }
+            h3{
+                color: whitesmoke;
+            }
+            button{
+                background-color: #3d3d3d;
+            }
+            button:hover{
+                background-color: #5a5959;
+            }
+        }
+    }
+    .subscription{
+        background-color: #efbe8a;
+        .container{
+            h1,p{
+                color: #2b2b2b;
+            }
+            form{
+                button{
+                    background-color: #3d3d3d;
+                }
+                button:hover{
+                    background-color: #5a5959;
+                }
+            }
+        }
+    }
+    .footer{
+        .container{
+            h2,p{
+                color:#8c8c8c ;
+            }
+            a{
+                i{
+                    color: #8c8c8c;
+                }
+                i:hover{
+                    color: whitesmoke;
+                }
+            }
+            ul{
+                li{
+                    a{
+                        color: #8c8c8c;
+                    }
+                    a:hover{
+                        color: whitesmoke;
+                    }
+                }
+            }
+        }
+    }
+}

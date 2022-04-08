@@ -1,0 +1,167 @@
+.darkmode {
+  background-color: #1f1f1f;
+  color: #2b2b2b;
+}
+.darkmode .darkmode-btn {
+  color: #2b2b2b;
+  background: none;
+  border: none;
+}
+.darkmode .darkmode-btn i {
+  color: whitesmoke;
+}
+.darkmode .scrolling-active {
+  background: #1f1f1f;
+  box-sizing: 0 3px 1rem rgba(0, 0, 0, 0.1);
+}
+.darkmode .nav-scroll .container-fluid a {
+  color: whitesmoke;
+}
+.darkmode .nav-scroll .container-fluid a i {
+  color: whitesmoke;
+}
+.darkmode .nav-scroll .container-fluid a:hover {
+  color: #efbe8a;
+}
+.darkmode .nav-scroll .container-fluid a:visited {
+  color: whitesmoke;
+}
+.darkmode .nav-scroll .container-fluid .dropdown-menu {
+  background-color: #1f1f1f;
+}
+.darkmode .nav-scroll .container-fluid .dropdown-menu li a:hover {
+  background: #efbe8a;
+}
+.darkmode .nav-scroll .container-fluid .shopping-bag {
+  color: whitesmoke;
+}
+.darkmode .nav-scroll .container-fluid .shopping-bag i {
+  color: whitesmoke;
+}
+.darkmode .nav-scroll .container-fluid .dark {
+  color: whitesmoke;
+}
+.darkmode .nav-scroll .offcanvas-body {
+  background-color: #1f1f1f;
+}
+.darkmode .nav-scroll .offcanvas-header h5 {
+  color: whitesmoke;
+}
+.darkmode .nav-scroll .navbar-toggler {
+  background-color: whitesmoke;
+}
+.darkmode .home .home-banner {
+  background-color: #efbe8a;
+}
+.darkmode .home .home-data h1 {
+  color: whitesmoke;
+}
+.darkmode .home .home-data p {
+  color: whitesmoke;
+}
+.darkmode .home .home-link a:hover {
+  color: whitesmoke;
+}
+.darkmode .home .cart {
+  background-color: #3d3d3d;
+}
+.darkmode .home .cart:hover {
+  background-color: #5a5959;
+}
+.darkmode .featured h1 {
+  color: whitesmoke;
+  -webkit-text-decoration: #efbe8a overline 1px solid;
+          text-decoration: #efbe8a overline 1px solid;
+}
+.darkmode .featured .featured-products h3 {
+  color: whitesmoke;
+}
+.darkmode .featured .featured-products span {
+  color: #efbe8a;
+}
+.darkmode .featured .featured-products button {
+  background-color: #3d3d3d;
+}
+.darkmode .featured .featured-products button:hover {
+  background-color: #5a5959;
+}
+.darkmode .main-story {
+  background-color: #efbe8a;
+}
+.darkmode .main-story .main-content .story-data h2, .darkmode .main-story .main-content .story-data h1, .darkmode .main-story .main-content .story-data p {
+  color: #3d3d3d;
+}
+.darkmode .main-story .main-content .story-data button {
+  background-color: #3d3d3d;
+  color: whitesmoke;
+}
+.darkmode .main-story .main-content .story-data button:hover {
+  background-color: #5a5959;
+}
+.darkmode .products h1 {
+  color: whitesmoke;
+  -webkit-text-decoration: overline 1px solid #efbe8a;
+          text-decoration: overline 1px solid #efbe8a;
+}
+.darkmode .products .our-products h3 {
+  color: whitesmoke;
+}
+.darkmode .products .our-products span {
+  color: #efbe8a;
+}
+.darkmode .products .our-products button {
+  background-color: #3d3d3d;
+}
+.darkmode .products .our-products button:hover {
+  background-color: #5a5959;
+}
+.darkmode .new-arrivals h1 {
+  color: whitesmoke;
+  -webkit-text-decoration: overline 1px solid #efbe8a;
+          text-decoration: overline 1px solid #efbe8a;
+}
+.darkmode .new-arrivals .new-watches:hover {
+  background-color: #efbe8a;
+}
+.darkmode .new-arrivals .new-watches:hover span {
+  background-color: #3d3d3d;
+}
+.darkmode .new-arrivals .new-watches span {
+  background-color: #efbe8a;
+}
+.darkmode .new-arrivals .new-watches h3 {
+  color: whitesmoke;
+}
+.darkmode .new-arrivals .new-watches button {
+  background-color: #3d3d3d;
+}
+.darkmode .new-arrivals .new-watches button:hover {
+  background-color: #5a5959;
+}
+.darkmode .subscription {
+  background-color: #efbe8a;
+}
+.darkmode .subscription .container h1, .darkmode .subscription .container p {
+  color: #2b2b2b;
+}
+.darkmode .subscription .container form button {
+  background-color: #3d3d3d;
+}
+.darkmode .subscription .container form button:hover {
+  background-color: #5a5959;
+}
+.darkmode .footer .container h2, .darkmode .footer .container p {
+  color: #8c8c8c;
+}
+.darkmode .footer .container a i {
+  color: #8c8c8c;
+}
+.darkmode .footer .container a i:hover {
+  color: whitesmoke;
+}
+.darkmode .footer .container ul li a {
+  color: #8c8c8c;
+}
+.darkmode .footer .container ul li a:hover {
+  color: whitesmoke;
+}/*# sourceMappingURL=darkmode.css.map */
